@@ -13,10 +13,10 @@
  [![Skills](https://skillicons.dev/icons?i=html,css,java,mysql)](https://skillicons.dev)
 
 ## Other Languages that I Tried
-  [![Skills](https://skillicons.dev/icons?i=rust,js,php,powershell,bash)](https://skillicons.dev)
+  [![Skills](https://skillicons.dev/icons?i=rust,js,ts,php,powershell,bash)](https://skillicons.dev)
 
 ## Tried Frameworks
- [![Skills](https://skillicons.dev/icons?i=astro,ts,tauri,tailwind)](https://skillicons.dev)
+ [![Skills](https://skillicons.dev/icons?i=astro,tauri,tailwind)](https://skillicons.dev)
 
 ## Tools
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows)](https://skillicons.dev)
