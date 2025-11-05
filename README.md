@@ -13,7 +13,7 @@
  [![Skills](https://skillicons.dev/icons?i=html,css,java,mysql,kotlin)](https://skillicons.dev)
 
 ## Untrained Languages that I like
-  [![Skills](https://skillicons.dev/icons?i=rust,ts,js,php,bash)](https://skillicons.dev)
+  [![Skills](https://skillicons.dev/icons?i=rust,ts,php,bash)](https://skillicons.dev)
 
 ## Tools
  [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
