@@ -10,17 +10,13 @@
  <a href="https://github.com/anuraghazra/github-readme-stats"></a> 
 
 ## Trained Languages
- [![Skills](https://skillicons.dev/icons?i=html,css,java,mysql)](https://skillicons.dev)
+ [![Skills](https://skillicons.dev/icons?i=html,css,java,mysql,kotlin)](https://skillicons.dev)
 
-## Other Languages that I Tried
-  [![Skills](https://skillicons.dev/icons?i=rust,ts,js,php,powershell,bash)](https://skillicons.dev)
-
-## Tried Frameworks
- [![Skills](https://skillicons.dev/icons?i=astro,tauri,tailwind)](https://skillicons.dev)
+## Untrained Languages that I like
+  [![Skills](https://skillicons.dev/icons?i=rust,ts,js,php,bash)](https://skillicons.dev)
 
 ## Tools
- [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows)](https://skillicons.dev)
+ [![Skills](https://skillicons.dev/icons?i=git,docker,ubuntu,figma,vscode,windows,linux)](https://skillicons.dev)
 
  ## What I want to be my stack
- [![Skills](https://skillicons.dev/icons?i=rust,ts,tauri,figma,vscode,mysql,git)](https://skillicons.dev)
-
+ [![Skills](https://skillicons.dev/icons?i=kotlin,ktor,mysql,git,docker)](https://skillicons.dev)
