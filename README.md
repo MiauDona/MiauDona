@@ -10,7 +10,7 @@
  <a href="https://github.com/anuraghazra/github-readme-stats"></a> 
 
 ## Trained Languages
- [![Skills](https://skillicons.dev/icons?i=html,css,java,mysql,kotlin)](https://skillicons.dev)
+ [![Skills](https://skillicons.dev/icons?i=kotlin,mysql,java,html,css)](https://skillicons.dev)
 
 ## Untrained Languages that I like
   [![Skills](https://skillicons.dev/icons?i=rust,ts,php,bash)](https://skillicons.dev)
